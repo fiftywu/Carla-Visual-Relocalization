@@ -49,7 +49,7 @@ Generate dataset for visual relocalization in CARLA 0.8.2
 
 * Run **test_with_mask** to infer, then download to local pc from remote server
 
-  > pretrained Dynamic2static  model
+> pretrained Dynamic2static  model
 
 * **Output format**
 
