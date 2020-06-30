@@ -42,10 +42,10 @@ Generate dataset for visual relocalization in CARLA 0.8.2
 
 * **Output format**
 
-  | folder name | description                                        |
-  | ----------- | -------------------------------------------------- |
-  | /AB         | dynamic,static, width=256*2, height=256            |
-  | /ABC        | dynamic,static,segmantic mask, width=256*3, height |
+| folder name | description                                        |
+| ----------- | -------------------------------------------------- |
+| /AB         | dynamic,static, width=256*2, height=256            |
+| /ABC        | dynamic,static,segmantic mask, width=256*3, height |
 
 * Run **test_with_mask** to infer, then download to local pc from remote server
 
